@@ -1,0 +1,92 @@
+/*-------------------------------
+		FOOTER
+-------------------------------*/
+
+footer {
+    margin: 0px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-footer {
+    display: flex;
+    background: #171616;
+    text-align: center;
+    padding: 20px 0;
+    color: #888;
+}
+
+.logo-footer img {
+    max-width: 260px;
+    display: block;
+    margin: 0px auto;
+    margin-top: 20px;
+    height: 150px;
+}
+
+.copyright {
+    font-size: 14px;
+    margin-top: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.footer-social {
+    margin-top: 15px;
+}
+
+.footer-social a {
+    margin: 0 10px;
+    font-size: 16px;
+    color: inherit;
+}
+
+
+/*
+.footer-social a:hover {
+    color: #fff;
+}
+
+.dosislite-social a:hover {
+    color: #C0392B;
+}
+*/
+
+.fa-facebook-f:hover {
+    color: #4267B2;
+}
+
+.fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+.fa-instagram:hover {
+    color: #C13584;
+}
+
+.fa-linkedin:hover {
+    color: #2867B2;
+}
+
+.fa-github:hover {
+    color: #FFFFFF;
+}
+
+.fa-spotify:hover {
+    color: #1DB954;
+}
+
+.fa-youtube:hover {
+    color: #FF0000;
+}
+
+.fa-twitch:hover {
+    color: #6441A4;
+}
