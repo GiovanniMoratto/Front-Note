@@ -18,7 +18,7 @@ Will be published under MIT license, which allows all the people to use and chan
 * To show the coding tabs again, click on the "down arrow".
 * It will be able to clone the repository to a computer to use it offline, to change it, or to include it on another project using the following terminal command:
 
-```git clone https://github.com/dennisberg13100/CS50-Final_Project.git```
+```git clone https://github.com/GiovanniMoratto/Front-Note.git```
 
 ## Conclusion
 From the start with Scratch on the first week to understand variables, functions, and loops, programming in C to understand algorithms, memory, and data structure and programming in Python to understand abstraction was one of my best coding experiences. All the problem sets were incredible and mind-blowing. The project made me spend hours reading documentation and articles, watching videos and tutorials, and with that, it taught me where to find the right information.
